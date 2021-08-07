@@ -2,7 +2,7 @@
  
       "storename":"Kutayin Dukkani",
       "cartid":1,
-      "products":{
+      "products":[
          {
             "id":1001,
             "quantity": 3,
@@ -27,5 +27,5 @@
             "image":"https://picsum.photos/id/21/3008/2008",
             "variant":"S-Black"
          }
-}
+       ]
 }
